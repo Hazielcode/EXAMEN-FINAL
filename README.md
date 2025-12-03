@@ -164,8 +164,9 @@ export const useStore = create((set) => ({
 
 **Haziel** - Estudiante de Tecsup
 
-## 📝 Notas
+pasos para CLONACION:
 
-- Proyecto desarrollado como examen final
-- Tiempo estimado de desarrollo: 75 minutos
-- Cumple con todos los requisitos: Zustand en 2+ páginas, React Router con layouts, consumo de API, paginación y formulario validado
+git clone https://github.com/Hazielcode/EXAMEN-FINAL.git
+cd EXAMEN-FINAL
+npm install
+npm run dev
